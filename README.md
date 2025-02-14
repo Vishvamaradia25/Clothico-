@@ -1,4 +1,4 @@
-## Project Title & Description1
+## Project Title & Descriptionl
 # Clothico - Fashion E-commerce Website  
 A modern e-commerce platform built with the **MERN stack** (MongoDB, Express.js, React.js, Node.js).  
 Shop the latest fashion trends with a smooth and responsive UI.  
